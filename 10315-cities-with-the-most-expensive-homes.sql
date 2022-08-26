@@ -1,4 +1,4 @@
--- MySQL
+-- MySQL, PostgreSQL
 SELECT city
 FROM zillow_transactions
 GROUP BY city
