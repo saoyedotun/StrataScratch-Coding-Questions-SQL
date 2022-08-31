@@ -6,4 +6,4 @@
 
 3. [Finding User Purchases](10322-finding-user-purchases.sql) | [StrataScratch 10322](https://platform.stratascratch.com/coding/10322-finding-user-purchases?code_type=3)
 
-[//]: # (4. [Most Sold in Germany]&#40;2118-most-sold-in-germany.sql&#41; | [StrataScratch 2118]&#40;https://platform.stratascratch.com/coding/2118-most-sold-in-germany?code_type=3&#41;)
+4. [Most Sold in Germany](2118-most-sold-in-germany.sql) | [StrataScratch 2118](https://platform.stratascratch.com/coding/2118-most-sold-in-germany?code_type=3)
