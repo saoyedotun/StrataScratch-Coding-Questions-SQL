@@ -8,4 +8,6 @@
 
 4. [Customers Without Orders](9896-customers-without-orders.sql) | [StrataScratch 9896](https://platform.stratascratch.com/coding/9896-customers-without-orders?code_type=3)
 
-5. [Most Sold in Germany](2118-most-sold-in-germany.sql) | [StrataScratch 2118](https://platform.stratascratch.com/coding/2118-most-sold-in-germany?code_type=3)
+5. [Total Cost Of Orders](10183-total-cost-of-orders.sql) | [StrataScratch 10183](https://platform.stratascratch.com/coding/10183-total-cost-of-orders?code_type=3)
+
+x. [Most Sold in Germany](2118-most-sold-in-germany.sql) | [StrataScratch 2118](https://platform.stratascratch.com/coding/2118-most-sold-in-germany?code_type=3)
