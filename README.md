@@ -14,4 +14,6 @@
 
 7. [Risky Projects](10304-risky-projects.sql) | [StrataScratch 10304](https://platform.stratascratch.com/coding/10304-risky-projects?code_type=3)
 
-8. [Most Sold in Germany](2118-most-sold-in-germany.sql) | [StrataScratch 2118](https://platform.stratascratch.com/coding/2118-most-sold-in-germany?code_type=3)
+8. [The Best Artist](9744-artist-of-the-decade.sql) | [StrataScratch 9744](https://platform.stratascratch.com/coding/9744-artist-of-the-decade?code_type=1)
+
+9. [Most Sold in Germany](2118-most-sold-in-germany.sql) | [StrataScratch 2118](https://platform.stratascratch.com/coding/2118-most-sold-in-germany?code_type=3)
